@@ -27,12 +27,12 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center" style="width: 80, height: 80">
+<div align="center">
   <a href="https://github.com/helpis-software/flutter_code">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/image/raster/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">FlutterCode</h3>
 
   <p align="center">
     FlutterCode is a lightweight, web-based text editor designed for Flutter development. It offers 
@@ -40,7 +40,9 @@
     manipulation, tab management, Dart analysis, and extensibility through plugins. FlutterCode is
     built with Flutter and runs in the browser, making it easy to use and access from any device.
     <br />
-    <a href="https://github.com/helpis-software/flutter_code/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/helpis-software/flutter_code/docs">
+      <strong>Explore the docs »</strong>
+    </a>
     <br />
     <br />
     <a href="https://github.com/helpis-software/flutter_code/examples">View Demo</a>
@@ -80,15 +82,15 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-------------------
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 --------------------
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-[FlutterCode is a lightweight, web-based text editor designed for Flutter development. It offers 
+<a href="https://github.com/helpis-software/flutter_code">
+  <img src="assets/image/raster/logo.png" alt="Logo" width="80" height="80">
+</a>
+FlutterCode is a lightweight, web-based text editor designed for Flutter development. It offers 
 many of the same features as popular desktop IDEs such as Visual Studio Code, including file 
 manipulation, tab management, Dart analysis, and extensibility through plugins. FlutterCode is 
 built with Flutter and runs in the browser, making it easy to use and access from any device.
@@ -106,8 +108,6 @@ Consider adding badges for coverage, release version, code of conduct.
 * [![Rust][Rust]][rust-url]
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
