@@ -48,6 +48,26 @@ dependencies:
   upgrader: ^5.0.0
   uuid: ^3.0.7
 
+# internal packages
+  flutter_code_code_editing_module:
+    path: packages/features/code_editing
+  flutter_code_analyzer_manager_module:
+    path: packages/features/analyzer_manager
+  flutter_code_tab_manager_module:
+    path: packages/features/tab_manager
+  flutter_code_plugin_manager_module:
+    path: packages/features/plugin_manager
+  flutter_code_file_manager_module:
+    path: packages/features/file_manager
+  flutter_code_directory_manager_module:
+    path: packages/features/directory_manager
+  flutter_code_theme_manager_module:
+    path: packages/features/theme_manager
+  flutter_code_authentication_module:
+    path: packages/features/authentication
+  flutter_code_onboarding_module:
+    path: packages/features/onboarding
+
 
 dev_dependencies:
   flutter_driver:

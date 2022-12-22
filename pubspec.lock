@@ -286,6 +286,69 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_code_analyzer_manager_module:
+    dependency: "direct main"
+    description:
+      path: "packages/features/analyzer_manager"
+      relative: true
+    source: path
+    version: "1.0.0+1"
+  flutter_code_authentication_module:
+    dependency: "direct main"
+    description:
+      path: "packages/features/authentication"
+      relative: true
+    source: path
+    version: "1.0.0+1"
+  flutter_code_code_editing_module:
+    dependency: "direct main"
+    description:
+      path: "packages/features/code_editing"
+      relative: true
+    source: path
+    version: "1.0.0+1"
+  flutter_code_directory_manager_module:
+    dependency: "direct main"
+    description:
+      path: "packages/features/directory_manager"
+      relative: true
+    source: path
+    version: "1.0.0+1"
+  flutter_code_file_manager_module:
+    dependency: "direct main"
+    description:
+      path: "packages/features/file_manager"
+      relative: true
+    source: path
+    version: "1.0.0+1"
+  flutter_code_onboarding_module:
+    dependency: "direct main"
+    description:
+      path: "packages/features/onboarding"
+      relative: true
+    source: path
+    version: "1.0.0+1"
+  flutter_code_plugin_manager_module:
+    dependency: "direct main"
+    description:
+      path: "packages/features/plugin_manager"
+      relative: true
+    source: path
+    version: "1.0.0+1"
+  flutter_code_tab_manager_module:
+    dependency: "direct main"
+    description:
+      path: "packages/features/tab_manager"
+      relative: true
+    source: path
+    version: "1.0.0+1"
+  flutter_code_theme_manager_module:
+    dependency: "direct main"
+    description:
+      path: "packages/features/theme_manager"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   flutter_data:
     dependency: "direct main"
     description:

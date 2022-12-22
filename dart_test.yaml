@@ -1,2 +1,10 @@
 tags:
   golden:
+
+format:
+  - json
+
+test_files:
+  - packages/features/**/test/features/*
+
+color: true
